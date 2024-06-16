@@ -1,0 +1,16 @@
+i2c_ssdver\network_data.o: ../X-CUBE-AI/App/network_data.c
+i2c_ssdver\network_data.o: ../X-CUBE-AI/App/network_data.h
+i2c_ssdver\network_data.o: ../X-CUBE-AI/App/network_config.h
+i2c_ssdver\network_data.o: ../X-CUBE-AI/App/network_data_params.h
+i2c_ssdver\network_data.o: ../Middlewares/ST/AI/Inc/ai_platform.h
+i2c_ssdver\network_data.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+i2c_ssdver\network_data.o: F:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+i2c_ssdver\network_data.o: F:\keil\ARM\ARMCC\Bin\..\include\inttypes.h
+i2c_ssdver\network_data.o: F:\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+i2c_ssdver\network_data.o: ../Middlewares/ST/AI/Inc/ai_platform_interface.h
+i2c_ssdver\network_data.o: ../Middlewares/ST/AI/Inc/datatypes_network.h
+i2c_ssdver\network_data.o: ../Middlewares/ST/AI/Inc/ai_datatypes.h
+i2c_ssdver\network_data.o: F:\keil\ARM\ARMCC\Bin\..\include\string.h
+i2c_ssdver\network_data.o: ../Middlewares/ST/AI/Inc/ai_datatypes_format.h
+i2c_ssdver\network_data.o: ../Middlewares/ST/AI/Inc/ai_datatypes_defines.h
+i2c_ssdver\network_data.o: ../Middlewares/ST/AI/Inc/formats_list.h
